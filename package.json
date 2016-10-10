@@ -1,0 +1,27 @@
+{
+  "name": "ab-fs",
+  "version": "0.0.1",
+  "keywords": [
+    "ab, allblue, fs, file system, files"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "ab-fs": "0.0.*"
+  },
+  "description": "'fs' package synchronous wrapper.",
+  "devDependencies": {},
+  "scripts": {
+    "hello": "node test.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allblue-pl/npm-ab-fs.git"
+  },
+  "author": "Jakub Zolcik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allblue-pl/npm-ab-fs/issues"
+  },
+  "homepage": "https://github.com/allblue-pl/npm-ab-fs#readme"
+}
